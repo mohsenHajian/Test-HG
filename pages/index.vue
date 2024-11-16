@@ -20,7 +20,6 @@
           :src="step.img"
         /> -->
         <img
-          loading="lazy"
           class="w-fit h-fit lg:h-[130px]"
           style="flex: 1"
           :src="step.img"
