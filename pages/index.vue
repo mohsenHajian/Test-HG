@@ -47,7 +47,7 @@ export default {
       whyHitalkiSteps: [
         {
           index: 1,
-          title: "this.$t('newwhyhitalki.one.title')",
+          title: "this.$t('newwhyhitalki.one.title')ffffffffffffffffffffffffffffffffffffffff",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit eum quae esse veniam beatae iste corrupti laudantium obcaecati, fugit quia.",
           img: "/newWhyHitalki/reason-1.gif",
